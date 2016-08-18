@@ -33,7 +33,7 @@ hyperfox本来是用 ``upper.io/db`` 这个orm将数据存入sqlite中的，我�
 
 ::
 
-    go get github.com/netxfly/Transparent-Proxy-Scanner/hyperfox
+    go get github.com/xieqiwen1993/Transparent-Proxy-Scanner/hyperfox
     go get github.com/toolkits/slice
     go get upper.io/db
     go get github.com/gorilla/mux
@@ -49,10 +49,10 @@ hyperfox本来是用 ``upper.io/db`` 这个orm将数据存入sqlite中的，我�
     import (
         "flag"
         "fmt"
-        "github.com/netxfly/Transparent-Proxy-Scanner/hyperfox/proxy"
-        "github.com/netxfly/Transparent-Proxy-Scanner/hyperfox/tools/capture"
+        "github.com/xieqiwen1993/Transparent-Proxy-Scanner/hyperfox/proxy"
+        "github.com/xieqiwen1993/Transparent-Proxy-Scanner/hyperfox/tools/capture"
         "strings"
-        // "github.com/netxfly/Transparent-Proxy-Scanner/hyperfox/tools/logger"
+        // "github.com/xieqiwen1993/Transparent-Proxy-Scanner/hyperfox/tools/logger"
         "github.com/toolkits/slice"
         "log"
         "net/http"
@@ -229,7 +229,7 @@ hyperfox本来是用 ``upper.io/db`` 这个orm将数据存入sqlite中的，我�
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. 安装依赖包
-2. git clone ``https://github.com/netxfly/Transparent-Proxy-Scanner.git`` 到GOPATH目录下
+2. git clone ``https://github.com/xieqiwen1993/Transparent-Proxy-Scanner.git`` 到GOPATH目录下
 3. cd 到 ``$GOPATH/Transparent-Proxy-Scanner/hyperfox`` 目录下编译hyperfox，如下图所示：
 
 .. image:: 001.png
