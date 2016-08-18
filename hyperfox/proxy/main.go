@@ -31,7 +31,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/netxfly/Transparent-Proxy-Scanner/hyperfox/util/otf"
+	"github.com/xieqiwen1993/Transparent-Proxy-Scanner/hyperfox/util/otf"
 )
 
 const (
