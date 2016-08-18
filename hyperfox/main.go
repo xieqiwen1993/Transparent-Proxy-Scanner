@@ -25,8 +25,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/netxfly/Transparent-Proxy-Scanner/hyperfox/proxy"
-	"github.com/netxfly/Transparent-Proxy-Scanner/hyperfox/tools/capture"
+	"github.com/xieqiwen1993/Transparent-Proxy-Scanner/hyperfox/proxy"
+	"github.com/xieqiwen1993/Transparent-Proxy-Scanner/hyperfox/tools/capture"
 	"strings"
 	// "github.com/netxfly/Transparent-Proxy-Scanner/hyperfox/tools/logger"
 	"github.com/toolkits/slice"
