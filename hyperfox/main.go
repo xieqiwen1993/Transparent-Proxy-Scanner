@@ -33,8 +33,8 @@ import (
 	"log"
 	"net/url"
 	"os"
-	"upper.io/db"
-	"upper.io/db/mongo"
+	"upper.io/db.v2"
+	"upper.io/db.v2/mongo"
 )
 
 const version = "0.9"
