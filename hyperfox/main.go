@@ -49,7 +49,7 @@ const (
 	Host     = "127.0.0.1"
 	Port     = "27017"
 	User     = "xsec"
-	Password = "x@xsec.io"
+	Password = "xsec"
 	Database = "passive_scan"
 )
 
